@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## About me 
+ my name is Kehinde ojo and i am from nigeria. I am a software developer 
 <!--
 **kenny5144/kenny5144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
